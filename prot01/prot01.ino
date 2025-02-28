@@ -63,6 +63,7 @@ void pik_in_mat() {
 void clear_mat() {
   
 }
+
 //вывести чичсло на индикатор счекта  индикатор 4 сегмента tm1637
 void indikator() {
     display.showNumberDec(1, true, 1, 0);  // 1___
@@ -117,5 +118,5 @@ void setup() {
 }
 
 void loop() {
-
+  
 }
